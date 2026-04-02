@@ -59,7 +59,7 @@ gem "ruby_llm", "~> 1.2"
 gem "dentaku", "~> 3.5"
 
 # Admin
-gem "avo", "~> 3.16"
+gem "avo", "~> 3.30"
 
 group :development, :test do
   gem "debug", platforms: %i[mri windows], require: "debug/prelude"
