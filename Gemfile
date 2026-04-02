@@ -76,7 +76,7 @@ group :test do
   gem "shoulda-matchers", "~> 7.0"
   gem "shoulda-context", "~> 2.0"
   gem "database_cleaner-active_record", "~> 2.2"
-  gem "webmock", "~> 3.24"
+  gem "webmock", "~> 3.26"
   gem "vcr", "~> 6.3"
   gem "mocha", "~> 3.0"
   gem "timecop", "~> 0.9"
