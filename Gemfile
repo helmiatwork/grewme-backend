@@ -40,7 +40,7 @@ gem "blind_index", "~> 2.3"
 
 # Logging & monitoring
 gem "lograge", "~> 0.14"
-gem "sentry-ruby", "~> 6.4"
+gem "sentry-ruby", "~> 6.5"
 gem "sentry-rails", "~> 6.4"
 
 # Activity tracking
