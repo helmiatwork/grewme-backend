@@ -47,7 +47,7 @@ gem "sentry-rails", "~> 6.4"
 gem "public_activity", "~> 3.0"
 
 # Feature flags
-gem "flipper", "~> 1.3"
+gem "flipper", "~> 1.4"
 gem "flipper-active_record", "~> 1.3"
 
 # Push notifications
