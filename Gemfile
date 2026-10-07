@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 # Core
-gem "rails", "~> 8.1.2"
+gem "rails", "~> 8.1.3"
 gem "pg", "~> 1.6"
 gem "puma", ">= 6.0"
 gem "bootsnap", require: false
